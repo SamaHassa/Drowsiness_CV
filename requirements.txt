@@ -1,0 +1,11 @@
+opencv-python>=4.9.0
+mediapipe>=0.10.11
+numpy>=1.26.0
+streamlit>=1.33.0
+streamlit-webrtc>=0.47.6
+playsound==1.2.2
+tensorflow>=2.16.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+Pillow>=10.0.0
+av>=12.0.0
