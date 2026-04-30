@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/DROWSINESS_CV.git
+git clone https://github.com/SamaHassa/Drowsiness_CV.git
 cd DROWSINESS_CV
 ```
 
